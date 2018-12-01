@@ -2,7 +2,7 @@
 
 ## Abstract
 
-mpovline calculates FGT0, FGT1 and FGT2 by intervals of multiple lines. This ado can be used to calculate headcount for the poor, vulnerable and middle class lines as proposed by Ferreira et al (2012), and the respective FGT1 and FGT2 as implemented by Azevedo and Sanfelice (2012).
+mpovline calculates FGT0, FGT1 and FGT2 by intervals of multiple lines. This ado can be used to calculate headcount for the poor, vulnerable and middle class lines as proposed Azevedo and Sanfelice (2012).
 
 ## Suggested Citation
 
@@ -19,7 +19,7 @@ This module should be installed from within Stata by typing "ssc install mpovlin
     Azevedo, Joao Pedro and Viviane Sanfelice (2012) "The rise of the middle class in Latin
     America". World Bank (mimeo).
 
-    Ferreira, Francisco H.G.; Messina, Julian; Rigolini, Jamele; L?pez-Calva, Luis-Felipe; Lugo,
+    Ferreira, Francisco H.G.; Messina, Julian; Rigolini, Jamele; Lopez-Calva, Luis-Felipe; Lugo,
     Maria Ana; Vakis, Renos. (2013) Economic Mobility and the Rise of the Latin American Middle
     Class. Washington, DC: World Bank.   (link to publication)
 

@@ -1,42 +1,27 @@
 # MPOVLINE: Stata module to calculate FGT0, FGT1 and FGT2 by intervals of multiple thresholds
 
-## Abstract
+## Description
 
-mpovline calculates FGT0, FGT1 and FGT2 by intervals of multiple lines. This ado can be used to calculate headcount for the poor, vulnerable and middle class lines as proposed Azevedo and Sanfelice (2012).
+mpovline calculates FGT0, FGT1 and FGT2 by intervals of multiple lines. This ado can be used to calculate headcount for the poor, vulnerable and middle class lines as proposed Azevedo and Sanfelice (2012) and applied in Azevedo et al (2015).
 
 ## Suggested Citation
 
 [Joao Pedro Azevedo & Viviane Sanfelice, 2012. "MPOVLINE: Stata module to calculate FGT0, FGT1 and FGT2 by intervals of multiple thresholds," Statistical Software Components S457565, Boston College Department of Economics.]()
 
-Handle: RePEc:boc:bocode:s457565 
+#### References
 
-## Note: 
+Azevedo, Joao Pedro and Viviane Sanfelice (2012) "The rise of the middle class in Latin America". World Bank (mimeo).
+
+Azevedo J.P., López-Calva L.F., Lustig N., Ortiz-Juárez E. (2015) Inequality, Mobility and Middle Classes in Latin America. In: Dayton-Johnson J. (eds) Latin America’s Emerging Middle Classes. International Political Economy Series. Palgrave Macmillan, London[(link to publication)](https://doi.org/10.1057/9781137320797_2)
+
+Foster, James; Joel Greer and Erik Thorbecke (1984) "A class of decomposablepoverty measures". Econometrica. 2 81: 761–766. 
+
+
+#### Handle: RePEc:boc:bocode:s457565 
+
+#### Note: 
 
 This module should be installed from within Stata by typing "ssc install mpovline". Windows users should not attempt to download these files with a web browser.
 
-## References
-
-    Azevedo, Joao Pedro and Viviane Sanfelice (2012) "The rise of the middle class in Latin
-    America". World Bank (mimeo).
-
-    Ferreira, Francisco H.G.; Messina, Julian; Rigolini, Jamele; Lopez-Calva, Luis-Felipe; Lugo,
-    Maria Ana; Vakis, Renos. (2013) Economic Mobility and the Rise of the Latin American Middle
-    Class. Washington, DC: World Bank.   (link to publication)
-
-    Datt, G.; Ravallion, M. (1992) Growth and Redistribution Components of Changes in Poverty
-    Measures: A Decomposition with Applications to Brazil and India in the 1980s. Journal of
-    Development Economics, 38: 275-296.
-
-    Shorrocks, A. F. (2012) Decomposition procedures for distributional analysis: a unified
-    framework based on the Shapley value. Journal of Economic Inequality.
-
-    Shorrocks, A.; Kolenikov, S. (2003) A Decomposition Analysis of Regional Poverty in Russia,
-    Discussion Paper No. 2003/74 United Nations University.
-
-    World Bank (2011) On The Edge Of Uncertainty: Poverty Reduction in Latin America and the
-    Caribbean during the Great Recession and Beyond. LAC Poverty and Labor Brief. World Bank:
-    Washington DC.   (link to publication)
-
-
-### Keywords
+#### Keywords
 poverty line; welfare;

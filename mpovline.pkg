@@ -1,7 +1,7 @@
-v 0.0.0
-d 'MPOVLINE' 
+v 1.0
+d 'MPOVLINE': Stata module to calculate FGT0, FGT1 and FGT2 by intervals of multiple thresholds
 d 
-d Distribution-Date: 
+d Distribution-Date: 01 August 2012
 d License: MIT
 d 
 F src/m/mpovline.ado

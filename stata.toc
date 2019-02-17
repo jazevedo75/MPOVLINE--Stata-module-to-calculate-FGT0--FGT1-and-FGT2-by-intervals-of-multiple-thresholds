@@ -1,5 +1,5 @@
-v 0.0.0
-d Materials by João Pedro Azevedo
+v 1.0
+d Materials by João Pedro Azevedo and Viviane Sanfelice
 d World Bank
 d jazevedo@worldbank.org
 d http://www.worldbank.org/en/about/people/j/joao-pedro-azevedo

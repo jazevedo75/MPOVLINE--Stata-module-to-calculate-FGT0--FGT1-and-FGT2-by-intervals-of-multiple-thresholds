@@ -28,7 +28,7 @@ poverty line; welfare;
 
 ## Authors: 
 
-  **Jo√£o Pedro Azevedo **  
+  **Jo„o Pedro Azevedo**  
   [jazevedo@worldbank.org](mailto:jazevedo@worldbank.org)  
   World Bank  
   [personal page](http://www.worldbank.org/en/about/people/j/joao-pedro-azevedo)  
